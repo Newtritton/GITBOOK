@@ -42,6 +42,8 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% endtab %}
 {% endtabs %}
 
+![](.gitbook/assets/faq.png)
+
 {% hint style="info" %}
 **A quoi me sert ce site ?** Ce site a pour but de centraliser :
 
@@ -51,6 +53,22 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% hint style="info" %}
 **Vous êtes à la recherche d'un terme en particulier ?** Un outil de recherche est disponible en haut à droite de votre écran.
+{% endhint %}
+
+{% hint style="info" %}
+**Qui sont mes interlocuteurs ?**
+
+[**La Foncière numérique**](http://www.lafoncierenumerique.com/) dispose au sein de son groupe une entité spécialisé BIM du nom de [**Foundation-bnd**](https://www.foundation-bnd.com/).
+
+Située au 28 Cours Albert 1er à Paris \(75008\), cette dernière assurera la mission de BIM Management des opérations ainsi que la gestion de la plateforme collaborative mise en place sur ses projets. 
+
+Pour toutes questions éventuelles sur ce sujet, N'hésitez pas à contacter :
+
+**Vincent BARUE,** Directeur associé,  [v.barue@lafoncièrenumérique.com](mailto:v.barue@lafoncièrenumérique.com)
+
+**Nicolas BOUTET**, Directeur associé, [n.boutet@foundation-bnd.com](mailto:n.boutet@foundation-bnd.com)                                                                                
+
+**Matthias MONTI**, BIM Manager, [m.monti@foundation-bnd.com](mailto:m.monti@foundation-bnd.com)
 {% endhint %}
 
 ![](.gitbook/assets/wallpaper_fnum_black.jpg)
