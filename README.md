@@ -1,7 +1,3 @@
----
-description: 'Date de création : 05/03/2019'
----
-
 # E-Charte d'exploitation et de construction numérique
 
 ![](.gitbook/assets/profil-utilisateur.png)
