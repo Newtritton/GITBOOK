@@ -15,6 +15,8 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% page-ref page="construction-digitale-build/" %}
 
 {% page-ref page="organisation-de-larborescence-projet.md" %}
+
+![](.gitbook/assets/prestataire-fonciere.png)
 {% endtab %}
 
 {% tab title="Membre de la FoncièreNumérique" %}
@@ -27,6 +29,8 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% page-ref page="regles-communes-au-build-and-run.md" %}
 
 {% page-ref page="organisation-de-larborescence-projet.md" %}
+
+![](.gitbook/assets/membre-fonciere.png)
 {% endtab %}
 
 {% tab title="Client de la FoncièreNumérique" %}
@@ -37,6 +41,8 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% page-ref page="regles-communes-au-build-and-run.md" %}
 
 {% page-ref page="organisation-de-larborescence-projet.md" %}
+
+![](.gitbook/assets/client-fonciere.png)
 {% endtab %}
 {% endtabs %}
 

@@ -1,6 +1,8 @@
 # Généralités
 
-Avoir une base commune de connaissance et de réflexion
+{% hint style="success" %}
+**Objectif de cette partie :** Avoir une base commune de connaissance et de réflexion
+{% endhint %}
 
 ![](../.gitbook/assets/sommaire.png)
 

@@ -2,6 +2,7 @@
 
 * [E-Charte d'exploitation et de construction numérique](README.md)
 * [Généralités](generalites/README.md)
+  * [1. Généralités](generalites/2.-generalites.md)
   * [2. Glossaire](generalites/3.-glossaire.md)
   * [3. Définition du BIM](generalites/definition-du-bim.md)
   * [4. Les acteurs BIM](generalites/4.-les-acteurs-bim.md)
@@ -29,6 +30,4 @@
 * [Exploitation digitale \(RUN\)](exploitation-digitale-run.md)
 * [Règles communes au BUILD&RUN](regles-communes-au-build-and-run.md)
 * [Tutoriels et logiciels](organisation-de-larborescence-projet.md)
-* [Cahier des charges BIM](cahier-des-charges-bim/README.md)
-  * [1. Généralités](cahier-des-charges-bim/2.-generalites.md)
 

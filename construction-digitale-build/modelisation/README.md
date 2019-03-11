@@ -59,5 +59,11 @@ Pour ce qui est de la modélisation concrète de chaque élément, se référer 
 {% tab title="MEP" %}
 
 {% endtab %}
+
+{% tab title="Liste des paramètres partagés" %}
+
+{% endtab %}
 {% endtabs %}
+
+![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
 
