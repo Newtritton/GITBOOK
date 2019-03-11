@@ -1,4 +1,4 @@
-# 7. Règles et paramétrages de la maquette numérique
+# 2. Règles et paramétrages de la maquette numérique
 
 ![](../../.gitbook/assets/regles-mod.png)
 
@@ -24,7 +24,7 @@ Liste des éléments concernés :
 Pour ce qui est de la modélisation concrète de chaque élément, se référer à la partie suivante :
 
 {% tabs %}
-{% tab title="ARCHITECTURE" %}
+{% tab title="ARCHITECTURE & STRUCTURE" %}
 {% page-ref page="6-8.md" %}
 
 {% page-ref page="covea-pkl.md" %}
@@ -64,6 +64,16 @@ Pour ce qui est de la modélisation concrète de chaque élément, se référer 
 
 {% endtab %}
 {% endtabs %}
+
+Unité de base
+
+Purge du fichier
+
+Nommage de la maquette
+
+Sous-projet
+
+
 
 ![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

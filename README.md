@@ -20,7 +20,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="construction-digitale-build/" %}
 
-{% page-ref page="exploitation-digitale-run.md" %}
+{% page-ref page="exploitation-digitale-run/" %}
 
 {% page-ref page="regles-communes-au-build-and-run.md" %}
 
@@ -32,7 +32,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% tab title="Client de la FoncièreNumérique" %}
 {% page-ref page="generalites/" %}
 
-{% page-ref page="exploitation-digitale-run.md" %}
+{% page-ref page="exploitation-digitale-run/" %}
 
 {% page-ref page="regles-communes-au-build-and-run.md" %}
 
@@ -60,7 +60,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 [**La Foncière numérique**](http://www.lafoncierenumerique.com/) dispose au sein de son groupe une entité spécialisé BIM du nom de [**Foundation-bnd**](https://www.foundation-bnd.com/).
 
-Située au 28 Cours Albert 1er à Paris \(75008\), cette dernière assurera la mission de BIM Management des opérations ainsi que la gestion de la plateforme collaborative mise en place sur ses projets. 
+Située au 28 Cours Albert 1er à Paris \(75008\), cette dernière assurera les missions de BIM Management des opérations ainsi que la gestion de la plateforme collaborative mise en place sur ses projets. 
 
 Pour toutes questions éventuelles sur ce sujet, N'hésitez pas à contacter :
 
