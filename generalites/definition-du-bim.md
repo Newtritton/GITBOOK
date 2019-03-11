@@ -21,9 +21,19 @@ Les informations sont capitalisées à chaque étape de ce processus. Ainsi, l'e
 
 ![](../.gitbook/assets/niveau-de-maturite-bim.png)
 
-Il est possible de discerner 3 niveaux de BIM différents. Sur ce projet, un BIM de niveau 2 est requis à minima sur l’opération.
+Il est possible de discerner 3 niveaux de BIM différents.
 
-### 3.1.1 Niveau 2 \(Niveau exigé à minima\)
+### 3.1.1 Niveau 0
+
+Souvent comparé à la CAO 2D non gérée ou non structurée. C'est le niveau actuel courant de notre industrie. Les normes de représentation ISO et AFNOR n'ont jamais réussi à s'y imposer. Des chartes graphiques sont appliquées, mais chacun utilise les siennes. La collaboration est donc difficile, d'autant plus si on considère que beaucoup de projets ne sont pas géo-référencés, n'ont pas les mêmes unités ou qu'une rotation a été appliquée. Les supports d’échanges ne sont pas uniformisés ce qui crée également une forte complexité dans l’échange des données.
+
+### 3.1.2 Niveau 1
+
+Aussi nommé BIM solo, il est souvent le début d’une démarche de conversion au BIM et donc souvent un mixte 2D/BIM. Néanmoins les données ne sont pas désordonnées comme pour la CAO 2D. Les données sont structurées mais chaque acteur peut définir sa propre structuration. On n’y parle par un langage partagé.
+
+Il n'y a donc pas de collaboration à proprement parlé à ce niveau-là car chacun publie et met à jour ses données individuellement. Le partage électronique et la diffusion des plans et modèles peut se faire par n’importe quelle plateforme de partage puisque les données ne sont exploitées presque que par l’auteur du modèle ou document en question.
+
+### 3.1.3 Niveau 2 \(Niveau exigé à minima en règle générale\)
 
 Chacun des intervenants produit son propre modèle BIM concernant le lot pour lequel il est sollicité. Ces différents modèles évoluent de concert et sont échangés en utilisant un format de fichier natif ou IFC via une plateforme d’échange adaptée. Ces échanges permettent de combiner tous les modèles en un seul assemblage fédéré appelé compilation. C'est avec ce modèle unique que seront effectuées les analyses de synthèse, métrés, comparatifs, etc.
 
@@ -41,6 +51,14 @@ En plus des éléments ci-dessus, le niveau 2 impose les exigences suivantes :
 * Environnement de Données Commun
 
 En BIM niveau 2, il est ainsi conseillé que les acteurs du projet s'adjoignent les services d’un BIM Manager de projet tous corps d’états capable de coordonner et contrôler la structuration l’ensemble des différentes maquettes \(voir description de son rôle et de ses responsabilités dans le chapitre intitulé “ Répartition des rôles”.
+
+### 3.1.4 Niveau 3
+
+Ce niveau permet de profiter de tous les avantages offerts par le BIM.
+
+Les modèles de fichiers échangés entre les acteurs sont riches, les modifications sont constantes et les données permettent la gestion de la vie de l’ouvrage après sa construction, donc dans sa phase d’exploitation. Les contributions sur une maquette unique sont simultanées.
+
+Ce modèle unique est stocké sur un serveur centralisé auquel ont accès tous les acteurs de la maquette qui peuvent faire des modifications simultanément. Cette collaboration totale n'est pas sans poser de nombreux problèmes de propriété intellectuelle, de responsabilité et de réglementation de l'accès/modification/enregistrement de la maquette numérique unique. Si pour les autres niveaux les contrats actuels avec un additif BIM est suffisant, le niveau 3 impose le recours à des contrats spécifiques qui régissent ce nouveau type de partenariats entre tous les acteurs. Accords multi-parties, partage des risques et bénéfices, assurances spécifiques sont également à considérer au niveau 3. La technologie actuelle présente notamment dans l’industrie ne permet pas encore l'accessibilité du Niveau 3 à tous. Les normes et les contrats ne sont pas disponibles et c'est la raison pour laquelle les gouvernements ont arrêté leurs exigences au niveau 2.
 
 ![](../.gitbook/assets/wallpaper_fnum_black.jpg)
 

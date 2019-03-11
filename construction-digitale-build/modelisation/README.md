@@ -1,6 +1,6 @@
 # 7. Règles et paramétrages de la maquette numérique
 
-![](../.gitbook/assets/regles-mod.png)
+![](../../.gitbook/assets/regles-mod.png)
 
 {% hint style="danger" %}
 **Tous les éléments sont modélisés tel que construit.** C’est-à-dire que dans la mesure des informations à notre disposition, pour un complexe de façade ou pour un sol par exemple, la couche béton fera l'objet d'un "objet" sol modélisé et la couche de finition fera l'objet d'un autre "objet" sol modélisé.
@@ -23,5 +23,41 @@ Liste des éléments concernés :
 
 Pour ce qui est de la modélisation concrète de chaque élément, se référer à la partie suivante :
 
-{% page-ref page="../les-projets/" %}
+{% tabs %}
+{% tab title="ARCHITECTURE" %}
+{% page-ref page="6-8.md" %}
+
+{% page-ref page="covea-pkl.md" %}
+
+{% page-ref page="charpente-metal.md" %}
+
+{% page-ref page="poutres.md" %}
+
+{% page-ref page="sols.md" %}
+
+{% page-ref page="plafonds.md" %}
+
+{% page-ref page="toits.md" %}
+
+{% page-ref page="portes.md" %}
+
+{% page-ref page="fenetres.md" %}
+
+{% page-ref page="escaliers.md" %}
+
+{% page-ref page="rampes.md" %}
+
+{% page-ref page="mobiliers.md" %}
+
+{% page-ref page="modeles-generiques.md" %}
+
+{% page-ref page="garde-corps.md" %}
+
+{% page-ref page="pieces.md" %}
+{% endtab %}
+
+{% tab title="MEP" %}
+
+{% endtab %}
+{% endtabs %}
 

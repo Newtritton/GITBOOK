@@ -10,17 +10,17 @@
 
 {% page-ref page="2.-generalites.md" %}
 
-{% page-ref page="3.-glossaire.md" %}
+{% page-ref page="../generalites/3.-glossaire.md" %}
 
-{% page-ref page="definition-du-bim.md" %}
+{% page-ref page="../generalites/definition-du-bim.md" %}
 
-{% page-ref page="4.-les-acteurs-bim.md" %}
+{% page-ref page="../generalites/4.-les-acteurs-bim.md" %}
 
-{% page-ref page="5.-les-niveaux-de-details.md" %}
+{% page-ref page="../generalites/5.-les-niveaux-de-details.md" %}
 
-{% page-ref page="objectifs-et-cas-dusages-en-bim-exploitation.md" %}
+{% page-ref page="../generalites/objectifs-et-cas-dusages-en-bim-exploitation.md" %}
 
-{% page-ref page="modelisation.md" %}
+{% page-ref page="../construction-digitale-build/modelisation/" %}
 
 ![](../.gitbook/assets/wallpaper_fnum_black.jpg)
 
