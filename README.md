@@ -6,38 +6,14 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% tabs %}
 {% tab title="Prestataire de la FoncièreNumérique" %}
-{% page-ref page="generalites.md" %}
-
-{% page-ref page="construction-digitale-build/" %}
-
-{% page-ref page="organisation-de-larborescence-projet.md" %}
-
 ![](.gitbook/assets/prestataire-fonciere.png)
 {% endtab %}
 
 {% tab title="Membre de la FoncièreNumérique" %}
-{% page-ref page="generalites.md" %}
-
-{% page-ref page="construction-digitale-build/" %}
-
-{% page-ref page="exploitation-digitale-run/" %}
-
-{% page-ref page="regles-communes-au-build-and-run.md" %}
-
-{% page-ref page="organisation-de-larborescence-projet.md" %}
-
 ![](.gitbook/assets/membre-fonciere.png)
 {% endtab %}
 
 {% tab title="Client de la FoncièreNumérique" %}
-{% page-ref page="generalites.md" %}
-
-{% page-ref page="exploitation-digitale-run/" %}
-
-{% page-ref page="regles-communes-au-build-and-run.md" %}
-
-{% page-ref page="organisation-de-larborescence-projet.md" %}
-
 ![](.gitbook/assets/client-fonciere.png)
 {% endtab %}
 {% endtabs %}
@@ -69,6 +45,14 @@ Pour toutes questions éventuelles sur ce sujet, N'hésitez pas à contacter :
 **Nicolas BOUTET**, Directeur associé, [n.boutet@foundation-bnd.com](mailto:n.boutet@foundation-bnd.com)                                                                                
 
 **Matthias MONTI**, BIM Manager, [m.monti@foundation-bnd.com](mailto:m.monti@foundation-bnd.com)
+{% endhint %}
+
+{% hint style="success" %}
+**Objectif de cette partie :** Avoir une base commune de connaissance et de réflexion
+{% endhint %}
+
+{% hint style="success" %}
+**Objectif de cette partie :** avoir une base de modélisation commune 
 {% endhint %}
 
 ![](.gitbook/assets/wallpaper_fnum_black.jpg)

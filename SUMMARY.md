@@ -1,37 +1,45 @@
 # Table of contents
 
 * [E-Charte d'exploitation et de construction numérique](README.md)
-* [Généralités](generalites.md)
-* [Construction digitale \(BUILD\)](construction-digitale-build/README.md)
-  * [1. Les Inputs](construction-digitale-build/les-inputs.md)
-  * [2. Règles et paramétrages de la maquette numérique](construction-digitale-build/modelisation/README.md)
-    * [Murs \(voiles béton, parpaings, placoplâtre, mur en verre, construction et joint de dilatation verti](construction-digitale-build/modelisation/6-8.md)
-    * [Poteaux \(Architecturaux&Structure\)](construction-digitale-build/modelisation/covea-pkl.md)
-    * [Charpente métal](construction-digitale-build/modelisation/charpente-metal.md)
-    * [Poutres](construction-digitale-build/modelisation/poutres.md)
-    * [Sols](construction-digitale-build/modelisation/sols.md)
-    * [Plafonds](construction-digitale-build/modelisation/plafonds.md)
-    * [Toits](construction-digitale-build/modelisation/toits.md)
-    * [Portes](construction-digitale-build/modelisation/portes.md)
-    * [Fenêtres](construction-digitale-build/modelisation/fenetres.md)
-    * [Escaliers](construction-digitale-build/modelisation/escaliers.md)
-    * [Rampes](construction-digitale-build/modelisation/rampes.md)
-    * [Mobiliers](construction-digitale-build/modelisation/mobiliers.md)
-    * [Modèles génériques](construction-digitale-build/modelisation/modeles-generiques.md)
-    * [Garde-corps](construction-digitale-build/modelisation/garde-corps.md)
-    * [Pièces](construction-digitale-build/modelisation/pieces.md)
-  * [3. Les outputs](construction-digitale-build/les-outputs.md)
-* [Exploitation digitale \(RUN\)](exploitation-digitale-run/README.md)
-  * [Audit et Visa BIM](exploitation-digitale-run/audit-et-visa-bim.md)
-* [Règles communes au BUILD&RUN](regles-communes-au-build-and-run.md)
-* [Tutoriels et logiciels](organisation-de-larborescence-projet.md)
-* [Untitled](untitled.md)
 
 ## Généralités
 
-* [1. Glossaire](generalites-1/3.-glossaire.md)
-* [3. Définition du BIM](generalites-1/definition-du-bim.md)
-* [4. Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
-* [5. Les niveaux de détails](generalites-1/5.-les-niveaux-de-details.md)
-* [6. Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation.md)
+* [Glossaire](generalites-1/3.-glossaire.md)
+* [Définition du BIM](generalites-1/definition-du-bim.md)
+* [Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
+* [Les niveaux de détails](generalites-1/5.-les-niveaux-de-details.md)
+* [Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation.md)
+
+## Construction digitale \(BUILD\)
+
+* [Les Inputs](construction-digitale-build-1/les-inputs.md)
+* [Règles et paramétrages de la maquette numérique](construction-digitale-build-1/modelisation/README.md)
+  * [Murs \(voiles béton, parpaings, placoplâtre, mur en verre, construction et joint de dilatation verti](construction-digitale-build-1/modelisation/6-8.md)
+  * [Poteaux \(Architecturaux&Structure\)](construction-digitale-build-1/modelisation/covea-pkl.md)
+  * [Charpente métal](construction-digitale-build-1/modelisation/charpente-metal.md)
+  * [Poutres](construction-digitale-build-1/modelisation/poutres.md)
+  * [Sols](construction-digitale-build-1/modelisation/sols.md)
+  * [Plafonds](construction-digitale-build-1/modelisation/plafonds.md)
+  * [Toits](construction-digitale-build-1/modelisation/toits.md)
+  * [Portes](construction-digitale-build-1/modelisation/portes.md)
+  * [Fenêtres](construction-digitale-build-1/modelisation/fenetres.md)
+  * [Escaliers](construction-digitale-build-1/modelisation/escaliers.md)
+  * [Rampes](construction-digitale-build-1/modelisation/rampes.md)
+  * [Mobiliers](construction-digitale-build-1/modelisation/mobiliers.md)
+  * [Modèles génériques](construction-digitale-build-1/modelisation/modeles-generiques.md)
+  * [Garde-corps](construction-digitale-build-1/modelisation/garde-corps.md)
+  * [Pièces](construction-digitale-build-1/modelisation/pieces.md)
+* [Les outputs](construction-digitale-build-1/les-outputs.md)
+
+## Exploitation digitale \(RUN\)
+
+* [Audit et Visa BIM](exploitation-digitale-run-1/audit-et-visa-bim.md)
+
+## Règles communes au BUILD&RUN
+
+* [Untitled](regles-communes-au-build-and-run-1/untitled.md)
+
+## Tutoriels et logiciels
+
+* [Untitled](tutoriels-et-logiciels/untitled.md)
 

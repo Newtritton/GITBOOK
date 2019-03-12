@@ -1,4 +1,4 @@
-# 2. Règles et paramétrages de la maquette numérique
+# Règles et paramétrages de la maquette numérique
 
 ### 
 
