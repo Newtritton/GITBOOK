@@ -1,6 +1,35 @@
 # 2. Règles et paramétrages de la maquette numérique
 
-![](../../.gitbook/assets/regles-mod.png)
+### Unité du projet
+
+| Type | Unité | Précision | Symbole |
+| :--- | :--- | :--- | :--- |
+| Longueur | Mètres | 0.00 | M |
+| Surface | Mètres carrés | 0.00 | M² |
+| Volume | Mètres cubes | 0.00M³ | M³ |
+| Inclinaison | Degrés décimaux | 0.00 | ° |
+| Pente | Pourcentage | 0.00 | % |
+
+### Nommage de la maquette :
+
+**NomProjet**\_**NomBat**\_**PHASE**\_**EMETTEUR**\_**TYPE**
+
+**PHASE :** EXP
+
+**EMETTEUR :** LFN ou autre trigramme propre à l'entreprise
+
+| TYPE | Description |
+| :--- | :--- |
+| ARC | Architecture |
+| CVC | Chauffage/Ventilation/Climatisation |
+| PBL | Plomberie |
+| STR | Structure |
+| ELE | Electricité |
+| SITE | Environnement |
+| GHOST | Fichier conteneur DWG |
+| URS | Fichier de base quadrillage/Niveau et compil des maquettes |
+
+![](../../.gitbook/assets/regles-majeures.png)
 
 {% hint style="danger" %}
 **Tous les éléments sont modélisés tel que construit.** C’est-à-dire que dans la mesure des informations à notre disposition, pour un complexe de façade ou pour un sol par exemple, la couche béton fera l'objet d'un "objet" sol modélisé et la couche de finition fera l'objet d'un autre "objet" sol modélisé.
@@ -21,7 +50,9 @@ Liste des éléments concernés :
 * Hachures/motifs
 {% endhint %}
 
-Pour ce qui est de la modélisation concrète de chaque élément, se référer à la partie suivante :
+![](../../.gitbook/assets/principe-de-mod.png)
+
+Pour ce qui est de la modélisation concrète de chaque élément, se référer aux  partie suivante :
 
 {% tabs %}
 {% tab title="ARCHITECTURE & STRUCTURE" %}
@@ -57,10 +88,6 @@ Pour ce qui est de la modélisation concrète de chaque élément, se référer 
 {% endtab %}
 
 {% tab title="MEP" %}
-
-{% endtab %}
-
-{% tab title="Liste des paramètres partagés" %}
 
 {% endtab %}
 {% endtabs %}
