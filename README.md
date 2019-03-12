@@ -6,7 +6,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% tabs %}
 {% tab title="Prestataire de la FoncièreNumérique" %}
-{% page-ref page="generalites/" %}
+{% page-ref page="generalites.md" %}
 
 {% page-ref page="construction-digitale-build/" %}
 
@@ -16,7 +16,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% endtab %}
 
 {% tab title="Membre de la FoncièreNumérique" %}
-{% page-ref page="generalites/" %}
+{% page-ref page="generalites.md" %}
 
 {% page-ref page="construction-digitale-build/" %}
 
@@ -30,7 +30,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% endtab %}
 
 {% tab title="Client de la FoncièreNumérique" %}
-{% page-ref page="generalites/" %}
+{% page-ref page="generalites.md" %}
 
 {% page-ref page="exploitation-digitale-run/" %}
 

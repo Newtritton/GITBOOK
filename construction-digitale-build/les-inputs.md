@@ -1,7 +1,3 @@
----
-description: tfhfh
----
-
 # 1. Les Inputs
 
 

@@ -1,12 +1,14 @@
 # 2. Règles et paramétrages de la maquette numérique
 
+### 
+
 ### Unité du projet
 
 | Type | Unité | Précision | Symbole |
 | :--- | :--- | :--- | :--- |
 | Longueur | Mètres | 0.00 | M |
 | Surface | Mètres carrés | 0.00 | M² |
-| Volume | Mètres cubes | 0.00M³ | M³ |
+| Volume | Mètres cubes | 0.00 | M³ |
 | Inclinaison | Degrés décimaux | 0.00 | ° |
 | Pente | Pourcentage | 0.00 | % |
 
@@ -52,7 +54,9 @@ Liste des éléments concernés :
 
 ![](../../.gitbook/assets/principe-de-mod.png)
 
-Pour ce qui est de la modélisation concrète de chaque élément, se référer aux  partie suivante :
+**Les éléments composant le bâtiment doivent être modélisés par les outils et objets adéquats. Il ne faut pas détourner l’usage d’un outil en modélisant par exemple un poteau avec l’outil mur ou une fenêtre avec l’outil « mur rideau ».**
+
+Pour ce qui est de la modélisation concrète de chaque élément, se référer aux  partie suivantes :
 
 {% tabs %}
 {% tab title="ARCHITECTURE & STRUCTURE" %}

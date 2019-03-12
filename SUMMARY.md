@@ -1,12 +1,7 @@
 # Table of contents
 
 * [E-Charte d'exploitation et de construction numérique](README.md)
-* [Généralités](generalites/README.md)
-  * [1. Glossaire](generalites/3.-glossaire.md)
-  * [3. Définition du BIM](generalites/definition-du-bim.md)
-  * [4. Les acteurs BIM](generalites/4.-les-acteurs-bim.md)
-  * [5. Les niveaux de détails](generalites/5.-les-niveaux-de-details.md)
-  * [6. Objectifs et cas d'usages en BIM exploitation](generalites/objectifs-et-cas-dusages-en-bim-exploitation.md)
+* [Généralités](generalites.md)
 * [Construction digitale \(BUILD\)](construction-digitale-build/README.md)
   * [1. Les Inputs](construction-digitale-build/les-inputs.md)
   * [2. Règles et paramétrages de la maquette numérique](construction-digitale-build/modelisation/README.md)
@@ -30,4 +25,13 @@
   * [Audit et Visa BIM](exploitation-digitale-run/audit-et-visa-bim.md)
 * [Règles communes au BUILD&RUN](regles-communes-au-build-and-run.md)
 * [Tutoriels et logiciels](organisation-de-larborescence-projet.md)
+* [Untitled](untitled.md)
+
+## Généralités
+
+* [1. Glossaire](generalites-1/3.-glossaire.md)
+* [3. Définition du BIM](generalites-1/definition-du-bim.md)
+* [4. Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
+* [5. Les niveaux de détails](generalites-1/5.-les-niveaux-de-details.md)
+* [6. Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation.md)
 

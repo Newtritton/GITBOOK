@@ -6,7 +6,7 @@
 {% tab title="LOD" %}
 ![LOG 250   /   LOI 250](../../.gitbook/assets/image.png)
 
-{% page-ref page="../../generalites/5.-les-niveaux-de-details.md" %}
+{% page-ref page="../../generalites-1/5.-les-niveaux-de-details.md" %}
 {% endtab %}
 
 {% tab title="Règles" %}
