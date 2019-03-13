@@ -1,7 +1,5 @@
 # Règles et paramétrages de la maquette numérique
 
-### 
-
 ### Unité du projet
 
 | Type | Unité | Précision | Symbole |

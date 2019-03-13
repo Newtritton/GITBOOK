@@ -5,7 +5,7 @@
 ## Généralités
 
 * [Glossaire](generalites-1/3.-glossaire.md)
-* [Définition du BIM](generalites-1/definition-du-bim.md)
+* [Le BIM et ses niveaux de maturité](generalites-1/definition-du-bim.md)
 * [Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
 * [Les niveaux de détails](generalites-1/5.-les-niveaux-de-details.md)
 * [Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation.md)
