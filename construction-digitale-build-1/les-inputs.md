@@ -2,46 +2,46 @@
 
 ![](../.gitbook/assets/generalites.png)
 
-### Pour tous les Corps d'états
+### 1. Pour tous les Corps d'états
 
-#### 1. Les PLANS
+#### A. Les PLANS
 
 {% hint style="info" %}
 L'ensemble des plans doivent impérativement faire l'objet d'une charte graphique uniformisés global à tous les lots \(Nommage des calques, couleurs etc…\)
 {% endhint %}
 
-* [x] Format **DWG \(Autocad 2013\) et PDF**
-* [x] Dernier indice DOE
-* [x] Découpage des plans par niveaux
-* [x] Même point d’origine **sur tous les plans \(SCU commun\)**
-* [x] Légendes indiquées sur plans \(pièces, réseaux, dimensions…\)
-* [x] Plans de repérages des détails techniques \(repérage cohérent permettant d’éviter toute hésitions ou doutes\)
+* Format **DWG \(Autocad 2013\) et PDF**
+* Dernier indice DOE
+* Découpage des plans par niveaux
+* Même point d’origine **sur tous les plans \(SCU commun\)**
+* Légendes indiquées sur plans \(pièces, réseaux, dimensions…\)
+* Plans de repérages des détails techniques \(repérage cohérent permettant d’éviter toute hésitions ou doutes\)
 
-#### 2. Les éléments technique
+#### B. Les éléments technique
 
-* [x] Les fiches techniques des équipements techniques
-* [x] Extractions de données GMAO
-* [x] Le CCTP d’exécution
+* Les fiches techniques des équipements techniques
+* Extractions de données GMAO
+* Le CCTP d’exécution
 
 ![](../.gitbook/assets/decomposition-par-lot.png)
 
-### **Lot Architectural**
+### **2. Lot Architectural**
 
 * Documents graphiques **validé DOE**, **dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans d’étages, coupes, élévations, plans de repérage
 
-### **Lot Structure**
+### **3. Lot Structure**
 
 * Documents graphiques **validé DOE, dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans de repérage des réservations existantes et nouvellement crée pour les besoins du projet avec Altimétries.
 
 {% hint style="info" %}
-Ces documents devront intégrer les Épaisseurs de dalles y compris les dimensions de l’ossature Structure \(Poutres IPN etc..\) , le découpage des Niveaux NGF et Altimétries\), lesdécaissés…et les modifications des épaisseurs de dalles.
+Ces documents devront intégrer les Épaisseurs de dalles y compris les dimensions de l’ossature Structure \(Poutres IPN etc..\) , le découpage des Niveaux NGF et Altimétries\), les décaissés…et les modifications des épaisseurs de dalles.
 
 Il est important de faire la distinction entrent Voiles porteurs et non porteur !
 {% endhint %}
 
-### **Lots Techniques**
+### **4. Lots Techniques**
 
 ####    **A. Documents Techniques**
 

@@ -6,6 +6,12 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% tabs %}
 {% tab title="Prestataire de la FoncièreNumérique" %}
+{% page-ref page="generalites-1/3.-glossaire.md" %}
+
+{% page-ref page="generalites-1/5.-les-niveaux-de-details.md" %}
+
+{% page-ref page="construction-digitale-build-1/modelisation/" %}
+
 ![](.gitbook/assets/prestataire-fonciere.png)
 {% endtab %}
 

@@ -1,6 +1,6 @@
 # Règles et paramétrages de la maquette numérique
 
-### Unité du projet
+### 1. Unité du projet
 
 | Type | Unité | Précision | Symbole |
 | :--- | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | Inclinaison | Degrés décimaux | 0.00 | ° |
 | Pente | Pourcentage | 0.00 | % |
 
-### Nommage de la maquette :
+### 2. Nommage de la maquette :
 
 **NomProjet**\_**NomBat**\_**PHASE**\_**EMETTEUR**\_**TYPE**
 
@@ -31,13 +31,13 @@
 
 ![](../../.gitbook/assets/regles-majeures.png)
 
-### Matériaux
+### 3. Matériaux
 
 {% hint style="warning" %}
 Un **matériau** doit être défini pour chaque élément de la maquette. Si ce matériau est connu, il portera comme nom, la nature de l'élément auquel il est rattaché \(exemple : bois, métal, alu…\). Si ce matériau n'est pas connu, son nom sera celui du type de l'élément auquel il est affecté, exemple : pour un cadre de fenêtre dont on ne sait pas si c'est du pvc, bois,..., le matériaux s'appellera : Z\_CADRE.
 {% endhint %}
 
-### Nommage
+### 4. Nommage des éléments
 
 {% hint style="warning" %}
 Le **nom d’un élément** doit désigner de manière générique l’objet qu’il représente \(exemple : FENETRE-IMPOSTE-HAUTE_\). Ce nom doit être en majuscule avec des « \__» en remplacement des espaces et précédé du suffixe "Z\_".Ce dernier permet de différencier les éléments revit de base, des éléments que nous avons ajouté dans la maquette.
@@ -51,6 +51,8 @@ Liste des éléments concernés :
 {% endhint %}
 
 ![](../../.gitbook/assets/principe-de-mod.png)
+
+### 5. Règles de modélisation
 
 {% hint style="danger" %}
 **Tous les éléments sont modélisés tel que construit.** C’est-à-dire que dans la mesure des informations à notre disposition, pour un complexe de façade ou pour un sol par exemple, la couche béton fera l'objet d'un "objet" sol modélisé et la couche de finition fera l'objet d'un autre "objet" sol modélisé.
@@ -105,6 +107,14 @@ Purge du fichier
 Nommage de la maquette
 
 Sous-projet
+
+![](../../.gitbook/assets/livrables.png)
+
+### 6. Procédure de remise des maquettes
+
+De manière général, chaque maquette déposée sur la plateforme doit être conforme aux différents points présents dans la partie [**Audit et visa BIM**](https://bim-lafoncierenumerique.gitbook.io/project/exploitation-digitale-run-1/audit-et-visa-bim).
+
+Les points suivants feront l’objet d’un examen en priorité. Leur non-respect pourrait entraîner une non validation de réception de la part du BIM Manager :
 
 
 
