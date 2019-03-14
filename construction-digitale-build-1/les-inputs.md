@@ -4,7 +4,7 @@
 
 ### 1. Pour tous les Corps d'états
 
-#### A. Les PLANS
+####   a. Les PLANS
 
 {% hint style="info" %}
 L'ensemble des plans doivent impérativement faire l'objet d'une charte graphique uniformisés global à tous les lots \(Nommage des calques, couleurs etc…\)
@@ -17,7 +17,7 @@ L'ensemble des plans doivent impérativement faire l'objet d'une charte graphiqu
 * Légendes indiquées sur plans \(pièces, réseaux, dimensions…\)
 * Plans de repérages des détails techniques \(repérage cohérent permettant d’éviter toute hésitions ou doutes\)
 
-#### B. Les éléments technique
+####   b. Les éléments technique
 
 * Les fiches techniques des équipements techniques
 * Extractions de données GMAO
@@ -43,12 +43,12 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 
 ### **4. Lots Techniques**
 
-####    **A. Documents Techniques**
+####    **a. Documents Techniques**
 
 * Le CCTP par LOT
 * Fiches Techniques des installations \(CTA, TGBT, et matériels\)
 
-    **B. Documents Graphiques**
+    **b. Documents Graphiques**
 
 * Documents graphiques **validé DOE, dernier indice,** niveaux par niveaux au **format DWG**;
 * Plans d’étages, coupes, élévations, plans de repérage
@@ -63,7 +63,7 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 * Légende des différents réseaux \(distinction : soufflage, reprise, eau chaude, eau froide…\)
 {% endhint %}
 
-#### **C. Synoptiques des CET** 
+####   **c. Synoptiques des CET** 
 
 * Lot CVC : Aéraulique et Hydraulique
 * Lot PLB : Hydrauliques et Évacuation « EU/EV/EUG et EP »

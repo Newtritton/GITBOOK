@@ -1,14 +1,14 @@
-# Les livrables maquettes
+# Les livrables de la maquette
 
 ![](../.gitbook/assets/livrables.png)
 
 ### 1. Liste des livrables
 
-#### a. Les plans
+####    a. Les plans
 
-#### b. Les nomenclatures
+####    b. Les nomenclatures
 
-#### c. Le paramétrage des éléments
+####    c. Le paramétrage des éléments
 
 ### 2. Procédure de remise des maquettes <a id="6-procedure-de-remise-des-maquettes"></a>
 

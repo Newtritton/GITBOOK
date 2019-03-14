@@ -38,7 +38,8 @@
   * [Modèles génériques](construction-digitale-build-1/modelisation/modeles-generiques.md)
   * [Garde-corps](construction-digitale-build-1/modelisation/garde-corps.md)
   * [Pièces](construction-digitale-build-1/modelisation/pieces.md)
-* [Les livrables maquettes](construction-digitale-build-1/les-livrables-maquettes.md)
+* [Procédure de remise de la maquette numérique](construction-digitale-build-1/procedure-de-remise-de-la-maquette-numerique.md)
+* [Les livrables de la maquette](construction-digitale-build-1/les-livrables-maquettes.md)
 
 ## Exploitation digitale \(RUN\)
 

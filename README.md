@@ -12,14 +12,44 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="construction-digitale-build-1/modelisation/" %}
 
+{% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
+
 ![](.gitbook/assets/prestataire-fonciere.png)
 {% endtab %}
 
 {% tab title="Membre de la FoncièreNumérique" %}
+{% page-ref page="generalites-1/3.-glossaire.md" %}
+
+{% page-ref page="generalites-1/definition-du-bim.md" %}
+
+{% page-ref page="generalites-1/4.-les-acteurs-bim.md" %}
+
+{% page-ref page="generalites-1/5.-les-niveaux-de-details.md" %}
+
+{% page-ref page="generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/" %}
+
+{% page-ref page="construction-digitale-build-1/les-inputs.md" %}
+
+{% page-ref page="construction-digitale-build-1/modelisation/" %}
+
+{% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
+
 ![](.gitbook/assets/membre-fonciere.png)
 {% endtab %}
 
 {% tab title="Client de la FoncièreNumérique" %}
+{% page-ref page="generalites-1/3.-glossaire.md" %}
+
+{% page-ref page="generalites-1/definition-du-bim.md" %}
+
+{% page-ref page="generalites-1/4.-les-acteurs-bim.md" %}
+
+{% page-ref page="generalites-1/5.-les-niveaux-de-details.md" %}
+
+{% page-ref page="generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/" %}
+
+{% page-ref page="construction-digitale-build-1/les-inputs.md" %}
+
 ![](.gitbook/assets/client-fonciere.png)
 {% endtab %}
 {% endtabs %}
