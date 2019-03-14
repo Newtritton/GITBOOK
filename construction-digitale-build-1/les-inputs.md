@@ -25,12 +25,12 @@ L'ensemble des plans doivent impérativement faire l'objet d'une charte graphiqu
 
 ![](../.gitbook/assets/decomposition-par-lot.png)
 
-### **Lot Architecturaux**
+### **Lot Architectural**
 
 * Documents graphiques **validé DOE**, **dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans d’étages, coupes, élévations, plans de repérage
 
-### **Lot Structuraux**
+### **Lot Structure**
 
 * Documents graphiques **validé DOE, dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans de repérage des réservations existantes et nouvellement crée pour les besoins du projet avec Altimétries.
