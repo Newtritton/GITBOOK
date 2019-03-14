@@ -3,11 +3,15 @@
 ![](../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="LOD" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Règles" %}
+
+{% endtab %}
+
+{% tab title="Nommage du type" %}
 
 {% endtab %}
 {% endtabs %}
