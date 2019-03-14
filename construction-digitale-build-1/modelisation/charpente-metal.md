@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250  /  LOI 200 : Profil \(conception g&#xE9;n&#xE9;rale\)](../../.gitbook/assets/image%20%281%29.png)
+![LOG 250  /  LOI 200 : Profil \(conception g&#xE9;n&#xE9;rale\)](../../.gitbook/assets/image%20%284%29.png)
 
 {% page-ref page="../../generalites-1/5.-les-niveaux-de-details.md" %}
 {% endtab %}
@@ -14,15 +14,11 @@ Les charpentes métale sont modélisé avec les bonnes dimensions sans jonction,
 {% endtab %}
 
 {% tab title="Nommage du type" %}
-"NATURE"\__"INT ou EXT"\__"DIMENSION"
+"NATURE"\__"INT ou EXT"\__"DIM"
 
-INT : si intérieur 
+Exemple poutre métal :
 
-EXT : si extérieur 
-
-DIMENSION : en mètre
-
-Exemple : BETON\_INT\_l0,4xL0,5
+MET\_INT\_IPN200
 {% endtab %}
 {% endtabs %}
 
