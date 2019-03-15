@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 300  /  LOI 300 : Structure par couches, cloisonnements pare-feu](../../.gitbook/assets/image%20%287%29.png)
+![LOG 300  /  LOI 300 : Structure par couches, cloisonnements pare-feu](../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}

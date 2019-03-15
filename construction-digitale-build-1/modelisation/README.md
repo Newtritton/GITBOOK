@@ -1,5 +1,44 @@
 # Règles et paramétrages de la maquette numérique
 
+  
+Pour rappel les règles générales sont :
+
+•         Utiliser le gabarit approprié à chaque discipline
+
+•         Quadrillages et Niveaux : les quadrillages de la trame de composition du bâtiment et les niveaux seront basés sur ceux de la maquette référence \(Architecte\). Par défaut les niveaux définis sont des « niveaux finis » \(au-dessus des revêtements architecturaux\). - Les quadrillages sont positionnés, en général, à l’axe du mur porteur \(sauf exception\).
+
+•         Niveaux architecture/niveaux structure : d’autres niveaux spécifiques aux disciplines peuvent être crées dans les maquettes. Chaque type de niveau doit être nommé en conséquence.
+
+•         Respect des règles de nommage : tous les intervenants doivent respecter les règles de nommage définies dans le protocole BIM.
+
+•         Création des paramètres : tous les nouveaux paramètres créés par les émetteurs seront des paramètres partagés dans le cas d’une extraction des données par nomenclature.
+
+•         Vues de travail / vues de rendu : l’arborescence du projet doit obligatoirement faire la distinction entre les vues de travail et celles de livrables.
+
+•         Position des coupes référentes : afin de pouvoir superposer en coupe les différentes maquettes, elles doivent créer des vues de coupes conformes à celles définies dans la maquette référence \(attention au nommage\)
+
+•         Le CodeLot doit être obligatoirement renseigné par l’entreprise pour l’ensemble des objets de leur maquettes.
+
+•         Modélisation de la maquette Revit « architecture » - maquette référente :
+
+o   Modélisation par étage : Les éléments du bâtiment doivent être modélisés séparément pour chaque étage
+
+o   Catégorie / famille appropriées : les éléments de la maquette doivent être créés en utilisant les outils appropriés \(outil mur, outil sol, outil poteau…\). Si ces outils ne s’avèrent pas suffisants pour modéliser un élément de la maquette, ce dernier doit être créé en utilisant d’autres techniques, telle la création de familles et dans ce cas, il faudra définir "la catégorie" de l’élément correctement. Par exemple, ne pas modéliser les éléments poteaux avec l’outil mur, etc.
+
+o   Murs : décalages inf/sup : murs avec des contraintes de niveau sup/inf + décalage sous dalle \(non pas hauteur non-contrainte\)
+
+o   Murs : structurels / bardages / compartimentage. Distinction importante pour la structure et l’économiste ; Attention au sous-projet, mais aussi aux couches du mur. Toujours modéliser le mur structurel à part \(pas de multicouche avec du béton\)
+
+o   Contours dalles : limites du contour au nu intérieur du mur porteur
+
+o   Dalles de toiture : la partie béton est considérée sol et structure \(sous-projet structure\), la partie revêtement élément de « toiture »
+
+o   Notifications des modifications : Nuages de révision : les modifications dans les modèles doivent être annotées dans les vues de rendu avec des nuages de révision indicés avec la date de partage.
+
+### 
+
+### 
+
 ### 1. Unité du projet
 
 | Type | Unité | Précision | Symbole |

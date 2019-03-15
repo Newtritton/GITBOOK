@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250   /   LOI 250](../../.gitbook/assets/image.png)
+![LOG 250   /   LOI 250](../../.gitbook/assets/image%20%281%29.png)
 
 {% page-ref page="../../generalites-1/5.-les-niveaux-de-details.md" %}
 {% endtab %}

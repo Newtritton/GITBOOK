@@ -4,7 +4,7 @@
 
 ### 1. Pour tous les Corps d'états
 
-####   a. Les PLANS
+####   a. Les plans
 
 {% hint style="info" %}
 L'ensemble des plans doivent impérativement faire l'objet d'une charte graphique uniformisés global à tous les lots \(Nommage des calques, couleurs etc…\)
@@ -27,12 +27,12 @@ L'ensemble des plans doivent impérativement faire l'objet d'une charte graphiqu
 
 ### **2. Lot Architectural**
 
-* Documents graphiques **validé DOE**, **dernier indice**, niveaux par niveaux au **format DWG** ;
+* Documents graphiques **validés DOE**, **dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans d’étages, coupes, élévations, plans de repérage
 
 ### **3. Lot Structure**
 
-* Documents graphiques **validé DOE, dernier indice**, niveaux par niveaux au **format DWG** ;
+* Documents graphiques **validés DOE, dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans de repérage des réservations existantes et nouvellement crée pour les besoins du projet avec Altimétries.
 
 {% hint style="info" %}
@@ -50,7 +50,7 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 
     **b. Documents Graphiques**
 
-* Documents graphiques **validé DOE, dernier indice,** niveaux par niveaux au **format DWG**;
+* Documents graphiques **validés DOE, dernier indice,** niveaux par niveaux au **format DWG**;
 * Plans d’étages, coupes, élévations, plans de repérage
 
 {% hint style="danger" %}
@@ -73,7 +73,7 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 
 
 
-![](../.gitbook/assets/plans.png)
+![](../.gitbook/assets/wallpaper_fnum_black.jpg)
 
 
 

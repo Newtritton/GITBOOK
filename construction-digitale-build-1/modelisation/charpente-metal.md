@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250  /  LOI 200 : Profil \(conception g&#xE9;n&#xE9;rale\)](../../.gitbook/assets/image%20%284%29.png)
+![LOG 250  /  LOI 200 : Profil \(conception g&#xE9;n&#xE9;rale\)](../../.gitbook/assets/image%20%285%29.png)
 
 {% page-ref page="../../generalites-1/5.-les-niveaux-de-details.md" %}
 {% endtab %}

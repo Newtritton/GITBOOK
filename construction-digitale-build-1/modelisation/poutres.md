@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250  /  LOI 250 : Dimensions sans appuis et fourreaux](../../.gitbook/assets/image%20%282%29.png)
+![LOG 250  /  LOI 250 : Dimensions sans appuis et fourreaux](../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}

@@ -8,7 +8,9 @@
 
 ####    b. Les nomenclatures
 
-####    c. Le paramétrage des éléments
+####    c. La codification des éléments
+
+Omniclass Uniformat
 
 ### 2. Procédure de remise des maquettes <a id="6-procedure-de-remise-des-maquettes"></a>
 
