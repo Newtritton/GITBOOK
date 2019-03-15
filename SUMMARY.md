@@ -39,7 +39,6 @@
   * [Garde-corps](construction-digitale-build-1/modelisation/garde-corps.md)
   * [Pièces](construction-digitale-build-1/modelisation/pieces.md)
 * [Les livrables de la maquette](construction-digitale-build-1/les-livrables-maquettes.md)
-* [Untitled](construction-digitale-build-1/untitled.md)
 
 ## Exploitation digitale \(RUN\)
 
