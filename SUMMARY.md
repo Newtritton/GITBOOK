@@ -38,12 +38,13 @@
   * [Modèles génériques](construction-digitale-build-1/modelisation/modeles-generiques.md)
   * [Garde-corps](construction-digitale-build-1/modelisation/garde-corps.md)
   * [Pièces](construction-digitale-build-1/modelisation/pieces.md)
-* [Procédure de remise de la maquette numérique](construction-digitale-build-1/procedure-de-remise-de-la-maquette-numerique.md)
 * [Les livrables de la maquette](construction-digitale-build-1/les-livrables-maquettes.md)
+* [Untitled](construction-digitale-build-1/untitled.md)
 
 ## Exploitation digitale \(RUN\)
 
-* [Audit et Visa BIM](exploitation-digitale-run-1/audit-et-visa-bim.md)
+* [Procédure de remise de la maquette numérique](exploitation-digitale-run-1/procedure-de-remise-de-la-maquette-numerique/README.md)
+  * [Audit et Visa BIM](exploitation-digitale-run-1/procedure-de-remise-de-la-maquette-numerique/audit-et-visa-bim.md)
 
 ## Règles communes au BUILD&RUN
 
