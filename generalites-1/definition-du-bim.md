@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/definition.png)
 
-### Le BIM
+### Définition - Le BIM
 
 Le BIM \(Building Information Modeling\) ou "**Maquette numérique du Bâtiment**" ou "**Modélisation d'information de la construction**" met en œuvre des processus associés pour produire, communiquer et analyser des modèles de construction. Le BIM est à la fois un processus de gestion et de production qui utilise une série de logiciels intégrant différents formats d'échange \(comme les IFC norme ISO 10303-21\) permettant la communication entre les différents acteurs du projet.
 
