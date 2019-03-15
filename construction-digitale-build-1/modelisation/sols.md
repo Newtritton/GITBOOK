@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 200  /  LOI 200 : &#xC9;paisseur de base suppos&#xE9;e](../../.gitbook/assets/image%20%284%29.png)
+![LOG 200  /  LOI 200 : &#xC9;paisseur de base suppos&#xE9;e](../../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}

@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 300  /  LOI 300 : Structure syst&#xE8;me](../../.gitbook/assets/image%20%286%29.png)
+![LOG 300  /  LOI 300 : Structure syst&#xE8;me](../../.gitbook/assets/image%20%289%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
