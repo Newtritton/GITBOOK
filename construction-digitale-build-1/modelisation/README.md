@@ -81,7 +81,18 @@ Un **matériau** doit être défini pour chaque élément de la maquette. Si ce 
 ### 4. Nommage des éléments
 
 {% hint style="warning" %}
-Le **nom d’un élément** doit désigner de manière générique l’objet qu’il représente \(exemple : FENETRE-IMPOSTE-HAUTE_\). Ce nom doit être en majuscule avec des « \__» en remplacement des espaces et précédé du suffixe "Z\_".Ce dernier permet de différencier les éléments revit de base, des éléments que nous avons ajouté dans la maquette.
+Le **nom d’un élément** doit désigner de manière générique l’objet qu’il représente \(exemple : FENETRE-IMPOSTE-HAUTE_\). Ce nom doit être en majuscule avec des « -_» en remplacement des espaces et précédé d'un suffixe :
+
+* A\_ : Si l'architecte est détenteur de l'élément
+* S\_ : Si le BE Structure est détenteur de l'élément
+* C\_ : Si il s'agit d'un élément du BE CVC
+* P\_ : Si il s'agit d'un élément du BE Plomberie
+* E\_ : Si il s'agit d'un élément du BE Electricité
+* F\_ : Si il s'agit d'un élément du BE Charpente
+
+Ce dernier permet de différencier les éléments revit de base, des éléments ajouté par chaque intervenant dans la maquette.
+
+Exemple : A\_FENETRE-IMPOSTE-HAUTE
 
 Liste des éléments concernés :
 

@@ -55,9 +55,9 @@ Il est requis des plans répondant à minima à ces critères :
 * Plans de repérage des réservations existantes et nouvellement crée pour les besoins du projet avec Altimétries.
 
 {% hint style="info" %}
-Ces documents devront intégrer les Épaisseurs de dalles y compris les dimensions de l’ossature Structure \(Poutres IPN etc..\) , le découpage des Niveaux NGF et Altimétries\), les décaissés…et les modifications des épaisseurs de dalles.
+Ces documents devront intégrer les épaisseurs de dalles y compris les dimensions de l’ossature structure \(Poutres IPN etc..\) , le découpage des niveaux NGF et altimétries\), les décaissés…et les modifications des épaisseurs de dalles.
 
-Il est important de faire la distinction entrent Voiles porteurs et non porteur !
+Il est important de faire la distinction entrent voiles porteurs et non porteur !
 {% endhint %}
 
 ### **Inputs pour les lots techniques**
@@ -65,7 +65,7 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 ####    **a. Documents Techniques**
 
 * Le CCTP par LOT
-* Fiches Techniques des installations \(CTA, TGBT, et matériels\)
+* Fiches techniques des installations \(CTA, TGBT, et matériels\)
 
     **b. Documents Graphiques**
 
@@ -76,9 +76,9 @@ Il est important de faire la distinction entrent Voiles porteurs et non porteur 
 **Ces documents devront intégrer :**
 
 * Les dimensions des installations et réseaux ;
-* Les Altimétrie et niveaux NGF des réseaux Aéraulique et Hydrauliques et chemins de câbles ;
-* Dimensionnement des réseaux que ce soit Aérauliques et hydrauliques pour les lots ; CVC/PLB, SSI et dimensionnement des Chemins de Câbles pour le Lot ELE ;
-* Les dimensions \(Diamètres\) et Taux de pente des Évacuations.
+* Les altimétrie et niveaux NGF des réseaux aéraulique et hydrauliques et chemins de câbles ;
+* Dimensionnement des réseaux que ce soit aérauliques et hydrauliques pour les lots ; CVC/PLB, SSI et dimensionnement des chemins de câbles pour le Lot ELE ;
+* Les dimensions \(diamètres\) et taux de pente des évacuations.
 * Légende des différents réseaux \(distinction : soufflage, reprise, eau chaude, eau froide…\)
 {% endhint %}
 
