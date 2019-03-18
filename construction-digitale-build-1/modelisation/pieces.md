@@ -664,70 +664,7 @@ Les pièces doivent être modélisées avec comme limites verticales le niveau d
     <tr>
       <td style="text-align:left">
         <p>Espace vert interieur</p>
-        <p>
-          <br />&lt;!--table
-          <br />{mso-displayed-decimal-separator:&quot;\,&quot;;
-          <br />mso-displayed-thousand-separator:&quot; &quot;;}
-          <br />@page
-          <br />{margin:.75in .7in .75in .7in;
-          <br />mso-header-margin:.3in;
-          <br />mso-footer-margin:.3in;}
-          <br />tr
-          <br />{mso-height-source:auto;}
-          <br />col
-          <br />{mso-width-source:auto;}
-          <br />br
-          <br />{mso-data-placement:same-cell;}
-          <br />td
-          <br />{padding-top:1px;
-          <br />padding-right:1px;
-          <br />padding-left:1px;
-          <br />mso-ignore:padding;
-          <br />color:black;
-          <br />font-size:11.0pt;
-          <br />font-weight:400;
-          <br />font-style:normal;
-          <br />text-decoration:none;
-          <br />font-family:Calibri, sans-serif;
-          <br />mso-font-charset:0;
-          <br />mso-number-format:General;
-          <br />text-align:general;
-          <br />vertical-align:bottom;
-          <br />border:none;
-          <br />mso-background-source:auto;
-          <br />mso-pattern:auto;
-          <br />mso-protection:locked visible;
-          <br />white-space:nowrap;
-          <br />mso-rotate:0;}
-          <br />.xl63
-          <br />{white-space:normal;}
-          <br />.xl64
-          <br />{text-align:left;
-          <br />vertical-align:middle;
-          <br />white-space:normal;}
-          <br />.xl65
-          <br />{text-align:left;
-          <br />white-space:normal;}
-          <br />.xl66
-          <br />{text-align:left;
-          <br />vertical-align:top;
-          <br />white-space:normal;}
-          <br />.xl67
-          <br />{color:windowtext;
-          <br />white-space:normal;}
-          <br />.xl68
-          <br />{color:windowtext;
-          <br />text-align:left;
-          <br />vertical-align:top;
-          <br />white-space:normal;}
-          <br />.xl69
-          <br />{color:red;
-          <br />text-align:left;
-          <br />vertical-align:top;
-          <br />white-space:normal;}
-          <br />--&gt;
-          <br />
-        </p>
+        <p></p>
       </td>
     </tr>
   </tbody>

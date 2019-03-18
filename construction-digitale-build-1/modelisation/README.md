@@ -1,6 +1,8 @@
 # Règles et paramétrages de la maquette numérique
 
   
+OMNICLASS/UNIFORMAT II
+
 Pour rappel les règles générales sont :
 
 •         Utiliser le gabarit approprié à chaque discipline
@@ -35,7 +37,7 @@ o   Dalles de toiture : la partie béton est considérée sol et structure \(sou
 
 o   Notifications des modifications : Nuages de révision : les modifications dans les modèles doivent être annotées dans les vues de rendu avec des nuages de révision indicés avec la date de partage.
 
-### 
+### Mettre fichier de gabarit
 
 ### 
 

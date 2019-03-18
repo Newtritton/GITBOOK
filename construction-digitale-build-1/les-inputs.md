@@ -2,14 +2,33 @@
 
 ![](../.gitbook/assets/generalites.png)
 
-### 1. Pour tous les Corps d'états
+## PRÉPARER SA DOCUMENTATION
+
+
+
+{% page-ref page="../regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md" %}
+
+{% page-ref page="../regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md" %}
+
+{% page-ref page="../regles-communes-au-build-and-run-1/untitled-1.md" %}
+
+## DOCUMENTATION READY-TO-BUILD
+
+La base documentaire transmise à [la FoncièreNumérique](http://www.lafoncierenumerique.com/) suit une organisation logique et a été correctement digitalisé \(en cas d’interrogation à ce sujet, ce reporter à la partie précédente\).
+
+Les éléments ci-dessous liste les critères essentiels auxquels doivent répondre les éléments d'entrée utiles à la construction d'une maquette numérique d'exploitation.
+
+### Inputs pour tous les Corps d'états
 
 ####   a. Les plans
 
 {% hint style="info" %}
-L'ensemble des plans doivent impérativement faire l'objet d'une charte graphique uniformisés global à tous les lots \(Nommage des calques, couleurs etc…\)
+L'ensemble des plans doivent impérativement faire l'objet d'une charte graphique uniformisés global à tous les lots \(Nommage des éléments, nommage des calques, couleurs etc…\)
 {% endhint %}
 
+Il est requis des plans répondant à minima à ces critères :
+
+* Derniers plans **certifiés géomètre** à jour 
 * Format **DWG \(Autocad 2013\) et PDF**
 * Dernier indice DOE
 * Découpage des plans par niveaux
@@ -25,12 +44,12 @@ L'ensemble des plans doivent impérativement faire l'objet d'une charte graphiqu
 
 ![](../.gitbook/assets/decomposition-par-lot.png)
 
-### **2. Lot Architectural**
+### **Inputs pour les lots architecturaux**
 
 * Documents graphiques **validés DOE**, **dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans d’étages, coupes, élévations, plans de repérage
 
-### **3. Lot Structure**
+### **Inputs pour le lot structure**
 
 * Documents graphiques **validés DOE, dernier indice**, niveaux par niveaux au **format DWG** ;
 * Plans de repérage des réservations existantes et nouvellement crée pour les besoins du projet avec Altimétries.
@@ -41,7 +60,7 @@ Ces documents devront intégrer les Épaisseurs de dalles y compris les dimensio
 Il est important de faire la distinction entrent Voiles porteurs et non porteur !
 {% endhint %}
 
-### **4. Lots Techniques**
+### **Inputs pour les lots techniques**
 
 ####    **a. Documents Techniques**
 
