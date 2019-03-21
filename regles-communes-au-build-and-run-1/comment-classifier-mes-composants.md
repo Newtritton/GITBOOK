@@ -1,2 +1,2 @@
-# Comment classifier mes composants ?
+# Comment classifier ses objets ?
 

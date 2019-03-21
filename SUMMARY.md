@@ -53,10 +53,22 @@
 * [Comment scanner un plan ?](regles-communes-au-build-and-run-1/untitled-1.md)
 * [Comment trier sa documentation avant envoi ?](regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md)
 * [Comment mettre à disposition ma documentation pour digitalisation ?](regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md)
-* [Comment utiliser la Dataproject ?](regles-communes-au-build-and-run-1/comment-utiliser-la-dataproject.md)
-* [Comment classifier mes composants ?](regles-communes-au-build-and-run-1/comment-classifier-mes-composants.md)
+* [Comment classifier ses objets ?](regles-communes-au-build-and-run-1/comment-classifier-mes-composants.md)
 * [Comment codifier mes espaces ?](regles-communes-au-build-and-run-1/comment-codifier-mes-espaces.md)
-* [Viewer BIM](regles-communes-au-build-and-run-1/viewer-bim.md)
+* [Comment démarrer un projet Revit ?](regles-communes-au-build-and-run-1/comment-demarrer-un-projet-revit.md)
+* [Comment visualiser une maquette 3D ?](regles-communes-au-build-and-run-1/comment-visualiser-une-maquette-3d.md)
+* [Comment utiliser Navisworks ?](regles-communes-au-build-and-run-1/comment-utiliser-navisworks.md)
+* [Comment utiliser DataViz ?](regles-communes-au-build-and-run-1/comment-utiliser-la-dataproject.md)
+* [Comment utiliser DataRoom ?](regles-communes-au-build-and-run-1/comment-utiliser-dataroom.md)
+* [Comment utiliser DataBIM](regles-communes-au-build-and-run-1/viewer-bim.md)
+* [Comment utilisez Dataproject ?](regles-communes-au-build-and-run-1/comment-utilisez-dataproject.md)
 
 ## Les applications de la FoncièreNumérique
+
+* [DataViz](tutoriels-et-logiciels/dataviz.md)
+* [DataRoom](tutoriels-et-logiciels/dataroom.md)
+* [DataBIM](tutoriels-et-logiciels/databim.md)
+* [DataProject](tutoriels-et-logiciels/dataproject.md)
+* [DPM](tutoriels-et-logiciels/dpm.md)
+* [Organigramme de fonctionnement](tutoriels-et-logiciels/organigramme-de-fonctionnement.md)
 
