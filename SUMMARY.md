@@ -4,16 +4,15 @@
 
 ## Généralités
 
-* [Glossaire](generalites-1/3.-glossaire.md)
-* [Définition](generalites-1/definition/README.md)
+* [DEFINITIONS](generalites-1/definition/README.md)
+  * [Avatar numérique](generalites-1/definition/avatar-numerique.md)
   * [BIM](generalites-1/definition/bim/README.md)
     * [Le BIM et ses niveaux de maturité](generalites-1/definition/bim/definition-du-bim.md)
     * [Les niveaux de détails](generalites-1/definition/bim/5.-les-niveaux-de-details.md)
-  * [Exemple 1](generalites-1/definition/exemple-1/README.md)
-    * [Avatar numérique](generalites-1/definition/exemple-1/avatar-numerique.md)
+    * [Les acteurs BIM](generalites-1/definition/bim/4.-les-acteurs-bim.md)
   * [Événement d'exploitation](generalites-1/definition/evenement-dexploitation.md)
   * [GEM](generalites-1/definition/gem.md)
-* [Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
+  * [Termes généraux](generalites-1/definition/3.-glossaire.md)
 * [Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/README.md)
   * [Direction du patrimoine](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/direction-du-patrimoine.md)
   * [Gestion des assurances/juridique](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/gestion-des-assurances-juridique.md)

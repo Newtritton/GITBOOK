@@ -6,7 +6,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% tabs %}
 {% tab title="Prestataire de la FoncièreNumérique" %}
-{% page-ref page="generalites-1/3.-glossaire.md" %}
+{% page-ref page="generalites-1/definition/3.-glossaire.md" %}
 
 {% page-ref page="generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 
@@ -18,11 +18,11 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% endtab %}
 
 {% tab title="Membre de la FoncièreNumérique" %}
-{% page-ref page="generalites-1/3.-glossaire.md" %}
+{% page-ref page="generalites-1/definition/3.-glossaire.md" %}
 
 {% page-ref page="generalites-1/definition/bim/definition-du-bim.md" %}
 
-{% page-ref page="generalites-1/4.-les-acteurs-bim.md" %}
+{% page-ref page="generalites-1/definition/bim/4.-les-acteurs-bim.md" %}
 
 {% page-ref page="generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 
@@ -38,11 +38,11 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 {% endtab %}
 
 {% tab title="Client de la FoncièreNumérique" %}
-{% page-ref page="generalites-1/3.-glossaire.md" %}
+{% page-ref page="generalites-1/definition/3.-glossaire.md" %}
 
 {% page-ref page="generalites-1/definition/bim/definition-du-bim.md" %}
 
-{% page-ref page="generalites-1/4.-les-acteurs-bim.md" %}
+{% page-ref page="generalites-1/definition/bim/4.-les-acteurs-bim.md" %}
 
 {% page-ref page="generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 
