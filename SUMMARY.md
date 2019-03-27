@@ -27,11 +27,12 @@
 ## Construction digitale \(BUILD\)
 
 * [Les Inputs](construction-digitale-build-1/les-inputs/README.md)
-  * [Preparer sa Documentation](construction-digitale-build-1/les-inputs/preparer-sa-documentation.md)
-  * [Données architecturales et techniques](construction-digitale-build-1/les-inputs/donnees-architecturales-et-techniques.md)
+  * [Préparer sa documentation](construction-digitale-build-1/les-inputs/preparer-sa-documentation.md)
   * [Données descriptives](construction-digitale-build-1/les-inputs/donnees-descriptives.md)
+  * [Données architecturales et techniques](construction-digitale-build-1/les-inputs/donnees-architecturales-et-techniques.md)
 * [Structuration et modélisation](construction-digitale-build-1/structuration-et-modelisation/README.md)
-  * [Règles et paramétrages de la maquette numérique](construction-digitale-build-1/structuration-et-modelisation/modelisation/README.md)
+  * [Construction de la base de donnée descriptive](construction-digitale-build-1/structuration-et-modelisation/construction-de-la-base-de-donnee-descriptive.md)
+  * [Construction de la maquette numérique BIM](construction-digitale-build-1/structuration-et-modelisation/modelisation/README.md)
     * [Murs \(voiles béton, parpaings, placoplâtre, mur en verre, construction et joint de dilatation verti](construction-digitale-build-1/structuration-et-modelisation/modelisation/6-8.md)
     * [Poteaux \(Architecturaux&Structure\)](construction-digitale-build-1/structuration-et-modelisation/modelisation/covea-pkl.md)
     * [Charpente métal](construction-digitale-build-1/structuration-et-modelisation/modelisation/charpente-metal.md)
@@ -52,7 +53,8 @@
     * [Bouches d'aération](construction-digitale-build-1/structuration-et-modelisation/modelisation/bouches-daeration.md)
     * [Ventilo-convecteur](construction-digitale-build-1/structuration-et-modelisation/modelisation/ventilo-convecteur.md)
     * [Pièces](construction-digitale-build-1/structuration-et-modelisation/modelisation/pieces.md)
-* [Les livrables de la maquette](construction-digitale-build-1/les-livrables-maquettes.md)
+* [OUTPUT](construction-digitale-build-1/output/README.md)
+  * [Les livrables de la maquette](construction-digitale-build-1/output/les-livrables-maquettes.md)
 
 ## Exploitation digitale \(RUN\)
 

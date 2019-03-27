@@ -1,4 +1,4 @@
-# Règles et paramétrages de la maquette numérique
+# Construction de la maquette numérique BIM
 
 ## GÉNÉRALITÉS
 

@@ -12,7 +12,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="construction-digitale-build-1/structuration-et-modelisation/modelisation/" %}
 
-{% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
+{% page-ref page="construction-digitale-build-1/output/les-livrables-maquettes.md" %}
 
 ![](.gitbook/assets/prestataire-fonciere.png)
 {% endtab %}
@@ -32,7 +32,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="construction-digitale-build-1/structuration-et-modelisation/modelisation/" %}
 
-{% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
+{% page-ref page="construction-digitale-build-1/output/les-livrables-maquettes.md" %}
 
 ![](.gitbook/assets/membre-fonciere.png)
 {% endtab %}

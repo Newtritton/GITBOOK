@@ -1,6 +1,6 @@
 # Les livrables de la maquette
 
-![](../.gitbook/assets/livrables.png)
+![](../../.gitbook/assets/livrables.png)
 
 ### 1. Liste des livrables
 
@@ -10,5 +10,5 @@
 
 ####  
 
-![](../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
 
