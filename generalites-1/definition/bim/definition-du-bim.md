@@ -1,6 +1,6 @@
 # Le BIM et ses niveaux de maturité
 
-![](../.gitbook/assets/definition.png)
+![](../../../.gitbook/assets/definition.png)
 
 ### Définition - Le BIM
 
@@ -23,7 +23,7 @@ Le processus BIM englobe la géométrie de la construction, les relations spatia
 
 Les informations sont capitalisées à chaque étape de ce processus. Ainsi, l'ensemble des résultats de chaque étape du processus peuvent être contenus dans la maquette numérique \(calculs énergétiques, dimensionnement chauffage, climatisation, aéraulique, emplacement des équipements, alarmes et sécurité, maintenance, etc.\).
 
-![](../.gitbook/assets/niveau-de-maturite-bim.png)
+![](../../../.gitbook/assets/niveau-de-maturite-bim.png)
 
 Il est possible de discerner 3 niveaux de BIM différents.
 
@@ -64,5 +64,5 @@ Les modèles de fichiers échangés entre les acteurs sont riches, les modificat
 
 Ce modèle unique est stocké sur un serveur centralisé auquel ont accès tous les acteurs de la maquette qui peuvent faire des modifications simultanément. Cette collaboration totale n'est pas sans poser de nombreux problèmes de propriété intellectuelle, de responsabilité et de réglementation de l'accès/modification/enregistrement de la maquette numérique unique. Si pour les autres niveaux les contrats actuels avec un additif BIM est suffisant, le niveau 3 impose le recours à des contrats spécifiques qui régissent ce nouveau type de partenariats entre tous les acteurs. Accords multi-parties, partage des risques et bénéfices, assurances spécifiques sont également à considérer au niveau 3. La technologie actuelle présente notamment dans l’industrie ne permet pas encore l'accessibilité du Niveau 3 à tous. Les normes et les contrats ne sont pas disponibles et c'est la raison pour laquelle les gouvernements ont arrêté leurs exigences au niveau 2.
 
-![](../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

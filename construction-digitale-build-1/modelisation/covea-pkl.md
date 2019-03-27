@@ -6,7 +6,7 @@
 {% tab title="LOD" %}
 ![LOG 250   /   LOI 250](../../.gitbook/assets/image%20%282%29.png)
 
-{% page-ref page="../../generalites-1/5.-les-niveaux-de-details.md" %}
+{% page-ref page="../../generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 {% endtab %}
 
 {% tab title="Règles" %}
