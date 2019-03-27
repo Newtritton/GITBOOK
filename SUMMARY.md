@@ -37,6 +37,11 @@
   * [Mobiliers](construction-digitale-build-1/modelisation/mobiliers.md)
   * [Modèles génériques](construction-digitale-build-1/modelisation/modeles-generiques.md)
   * [Garde-corps](construction-digitale-build-1/modelisation/garde-corps.md)
+  * [Gaines](construction-digitale-build-1/modelisation/gaines.md)
+  * [Pompes](construction-digitale-build-1/modelisation/pompes.md)
+  * [Ballons d'eau chaude](construction-digitale-build-1/modelisation/ballons-deau-chaude.md)
+  * [Bouches d'aération](construction-digitale-build-1/modelisation/bouches-daeration.md)
+  * [Ventilo-convecteur](construction-digitale-build-1/modelisation/ventilo-convecteur.md)
   * [Pièces](construction-digitale-build-1/modelisation/pieces.md)
 * [Les livrables de la maquette](construction-digitale-build-1/les-livrables-maquettes.md)
 
@@ -62,6 +67,7 @@
 * [Comment utiliser DataRoom ?](regles-communes-au-build-and-run-1/comment-utiliser-dataroom.md)
 * [Comment utiliser DataBIM](regles-communes-au-build-and-run-1/viewer-bim.md)
 * [Comment utilisez Dataproject ?](regles-communes-au-build-and-run-1/comment-utilisez-dataproject.md)
+* [Codifier sa documentation](regles-communes-au-build-and-run-1/codifier-sa-documentation.md)
 
 ## Les applications de la FoncièreNumérique
 

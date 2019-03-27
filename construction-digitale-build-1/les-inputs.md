@@ -4,9 +4,9 @@
 
 ## PRÉPARER SA DOCUMENTATION
 
-Avant d'arriver sur 
-
 {% page-ref page="../regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md" %}
+
+{% page-ref page="../regles-communes-au-build-and-run-1/codifier-sa-documentation.md" %}
 
 {% page-ref page="../regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md" %}
 
