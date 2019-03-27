@@ -10,7 +10,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 
-{% page-ref page="construction-digitale-build-1/modelisation/" %}
+{% page-ref page="construction-digitale-build-1/structuration-et-modelisation/modelisation/" %}
 
 {% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
 
@@ -28,9 +28,9 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/" %}
 
-{% page-ref page="construction-digitale-build-1/les-inputs.md" %}
+{% page-ref page="construction-digitale-build-1/les-inputs/" %}
 
-{% page-ref page="construction-digitale-build-1/modelisation/" %}
+{% page-ref page="construction-digitale-build-1/structuration-et-modelisation/modelisation/" %}
 
 {% page-ref page="construction-digitale-build-1/les-livrables-maquettes.md" %}
 
@@ -48,7 +48,7 @@ En choisissant votre profil ci-dessous, un pré-filtre d'éléments susceptibles
 
 {% page-ref page="generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/" %}
 
-{% page-ref page="construction-digitale-build-1/les-inputs.md" %}
+{% page-ref page="construction-digitale-build-1/les-inputs/" %}
 
 ![](.gitbook/assets/client-fonciere.png)
 {% endtab %}

@@ -1,10 +1,10 @@
 # Portes
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 300  /  LOI 300 : Structure syst&#xE8;me](../../.gitbook/assets/image%20%283%29.png)
+![LOG 300  /  LOI 300 : Structure syst&#xE8;me](../../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -24,5 +24,5 @@ BATTANTE\_INT\_l1,8xH2,1
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

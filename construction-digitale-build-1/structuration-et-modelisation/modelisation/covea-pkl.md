@@ -1,12 +1,12 @@
 # Poteaux \(Architecturaux&Structure\)
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250   /   LOI 250](../../.gitbook/assets/image%20%282%29.png)
+![LOG 250   /   LOI 250](../../../.gitbook/assets/image%20%282%29.png)
 
-{% page-ref page="../../generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
+{% page-ref page="../../../generalites-1/definition/bim/5.-les-niveaux-de-details.md" %}
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -30,5 +30,5 @@ Exemple : **BETON\_INT\_l0,4xL0,5**
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

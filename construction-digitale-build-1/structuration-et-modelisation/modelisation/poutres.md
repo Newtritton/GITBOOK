@@ -1,10 +1,10 @@
 # Poutres
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 250  /  LOI 250 : Dimensions sans appuis et fourreaux](../../.gitbook/assets/image%20%284%29.png)
+![LOG 250  /  LOI 250 : Dimensions sans appuis et fourreaux](../../../.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -25,5 +25,5 @@ Exemple : BETON\_INT\_l0,4xH0,5
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

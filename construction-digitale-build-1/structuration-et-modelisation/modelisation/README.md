@@ -2,7 +2,7 @@
 
 ## GÉNÉRALITÉS
 
-![](../../.gitbook/assets/regles-majeures.png)
+![](../../../.gitbook/assets/regles-majeures.png)
 
 ### Unité du projet
 
@@ -81,7 +81,7 @@ Liste des éléments concernés :
 
 ## RÈGLES DE MODÉLISATION
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 ### Les essentiels
 
@@ -145,5 +145,5 @@ Liste des éléments concernés :
 
 
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

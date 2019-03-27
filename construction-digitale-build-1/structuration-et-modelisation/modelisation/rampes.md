@@ -1,6 +1,6 @@
 # Rampes
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
@@ -29,5 +29,5 @@ BETON\_EXT\_0,2
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

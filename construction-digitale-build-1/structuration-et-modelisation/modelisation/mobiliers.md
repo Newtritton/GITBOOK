@@ -1,10 +1,10 @@
 # Mobiliers
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 200 / LOI 200 : Structure sch&#xE9;matis&#xE9;e](../../.gitbook/assets/image%20%287%29.png)
+![LOG 200 / LOI 200 : Structure sch&#xE9;matis&#xE9;e](../../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -19,5 +19,5 @@ Exemple : TABLE ARMOIRE
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

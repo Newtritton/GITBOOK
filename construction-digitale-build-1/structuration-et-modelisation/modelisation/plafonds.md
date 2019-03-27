@@ -1,10 +1,10 @@
 # Plafonds
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 300  /  LOI 300 : Structure par couches, cloisonnements pare-feu](../../.gitbook/assets/image%20%2811%29.png)
+![LOG 300  /  LOI 300 : Structure par couches, cloisonnements pare-feu](../../../.gitbook/assets/image%20%2811%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -23,5 +23,5 @@ DALLE PLACO\_l0,6xL0,6
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

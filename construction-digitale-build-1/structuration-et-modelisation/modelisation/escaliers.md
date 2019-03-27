@@ -1,10 +1,10 @@
 # Escaliers
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 200  /  LOI 200 : Dimensionnement de base ](../../.gitbook/assets/image.png)
+![LOG 200  /  LOI 200 : Dimensionnement de base ](../../../.gitbook/assets/image.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -21,5 +21,5 @@ OSCILLO-BATTANTE\_INT\_l1,8xH1,2
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

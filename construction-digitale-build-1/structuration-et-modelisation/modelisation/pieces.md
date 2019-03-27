@@ -1,10 +1,10 @@
 # Pièces
 
-![](../../.gitbook/assets/principe-de-mod.png)
+![](../../../.gitbook/assets/principe-de-mod.png)
 
 {% tabs %}
 {% tab title="LOD" %}
-![LOG 300 / LOI 300 : Espaces individuels sch&#xE9;matis&#xE9;s](../../.gitbook/assets/image%20%281%29.png)
+![LOG 300 / LOI 300 : Espaces individuels sch&#xE9;matis&#xE9;s](../../../.gitbook/assets/image%20%281%29.png)
 {% endtab %}
 
 {% tab title="Règles" %}
@@ -672,5 +672,5 @@ Les pièces doivent être modélisées avec comme limites verticales le niveau d
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../../.gitbook/assets/wallpaper_fnum_black.jpg)
 

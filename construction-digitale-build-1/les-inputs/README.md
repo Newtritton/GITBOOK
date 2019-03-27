@@ -1,22 +1,22 @@
 # Les Inputs
 
-![](../.gitbook/assets/generalites.png)
+![](../../.gitbook/assets/generalites.png)
 
 ## PRÉPARER SA DOCUMENTATION
 
-{% page-ref page="../regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md" %}
+{% page-ref page="../../regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md" %}
 
-{% page-ref page="../regles-communes-au-build-and-run-1/codifier-sa-documentation.md" %}
+{% page-ref page="../../regles-communes-au-build-and-run-1/codifier-sa-documentation.md" %}
 
-{% page-ref page="../regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md" %}
+{% page-ref page="../../regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md" %}
 
-{% page-ref page="../regles-communes-au-build-and-run-1/untitled-1.md" %}
+{% page-ref page="../../regles-communes-au-build-and-run-1/untitled-1.md" %}
 
 ## DOCUMENTATION READY-TO-BUILD
 
 La base documentaire transmise à [la FoncièreNumérique](http://www.lafoncierenumerique.com/) suit une organisation logique et a été correctement digitalisé \(en cas d’interrogation à ce sujet, ce reporter à la partie précédente\).
 
-Les éléments ci-dessous liste les critères essentiels auxquels doivent répondre les éléments d'entrée utiles à la construction d'une maquette numérique d'exploitation.
+Les éléments ci-dessous liste les critères essentiels auxquels doivent répondre les éléments d'entrée utiles à la construction d'un référentiel de données immobilière pour l'exploitation.
 
 ### Inputs pour tous les Corps d'états
 
@@ -42,7 +42,7 @@ Il est requis des plans répondant à minima à ces critères :
 * Extractions de données GMAO
 * Le CCTP d’exécution
 
-![](../.gitbook/assets/decomposition-par-lot.png)
+![](../../.gitbook/assets/decomposition-par-lot.png)
 
 ### **Inputs pour les lots architecturaux**
 
@@ -92,7 +92,7 @@ Il est important de faire la distinction entrent voiles porteurs et non porteur 
 
 
 
-![](../.gitbook/assets/wallpaper_fnum_black.jpg)
+![](../../.gitbook/assets/wallpaper_fnum_black.jpg)
 
 
 
