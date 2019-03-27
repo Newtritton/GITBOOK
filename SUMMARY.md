@@ -12,6 +12,7 @@
   * [Exemple 1](generalites-1/definition/exemple-1/README.md)
     * [Avatar numérique](generalites-1/definition/exemple-1/avatar-numerique.md)
   * [Événement d'exploitation](generalites-1/definition/evenement-dexploitation.md)
+  * [GEM](generalites-1/definition/gem.md)
 * [Les acteurs BIM](generalites-1/4.-les-acteurs-bim.md)
 * [Objectifs et cas d'usages en BIM exploitation](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/README.md)
   * [Direction du patrimoine](generalites-1/objectifs-et-cas-dusages-en-bim-exploitation/direction-du-patrimoine.md)
