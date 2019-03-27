@@ -42,7 +42,7 @@
 
 ## Exploitation digitale \(RUN\)
 
-* [INPUT d'exploitation](exploitation-digitale-run-1/input-dexploitation.md)
+* [Les inputs d'exploitation](exploitation-digitale-run-1/input-dexploitation.md)
 * [Règles de maintenance en condition opérationnelle des données](exploitation-digitale-run-1/regles-de-maintenance-en-condition-operationnelle-des-donnees.md)
 * [Procédure de remise de la maquette numérique](exploitation-digitale-run-1/procedure-de-remise-de-la-maquette-numerique/README.md)
   * [Audit et Visa BIM](exploitation-digitale-run-1/procedure-de-remise-de-la-maquette-numerique/audit-et-visa-bim.md)
