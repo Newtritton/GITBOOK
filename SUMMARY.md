@@ -68,6 +68,8 @@
 
 * [DATAVIZ](regles-communes-au-build-and-run-1/dataviz/README.md)
   * [Process de chargement des données](regles-communes-au-build-and-run-1/dataviz/process-de-chargement-des-donnees.md)
+  * [Accès à la plateforme](regles-communes-au-build-and-run-1/dataviz/acces-a-la-plateforme.md)
+  * [Parametrage du SSO](regles-communes-au-build-and-run-1/dataviz/parametrage-du-sso.md)
 * [Comment scanner un plan ?](regles-communes-au-build-and-run-1/untitled-1.md)
 * [Comment trier sa documentation avant envoi ?](regles-communes-au-build-and-run-1/comment-trier-sa-documentation-avant-envoi.md)
 * [Comment mettre à disposition ma documentation pour digitalisation ?](regles-communes-au-build-and-run-1/comment-mettre-a-disposition-ma-documentation-pour-digitalisation.md)
